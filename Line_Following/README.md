@@ -4,10 +4,10 @@ This project demonstrates two different approaches to implementing a line-follow
 
 ## Videos
 
-- **Basic Line Following with Two IR Sensors**
+- **Basic Line Following**
   [Watch the video](https://1drv.ms/v/c/66efd464b4ddcd14/ETggr_IWoBhPhYKYsZFTYy8BdxaQGmwt41H7Y_exIZLM7w?e=OT5Rwh)
 
-- **PID Line Following with Five IR Sensors**
+- **PID Line Following**
   [Watch the video](https://1drv.ms/v/c/66efd464b4ddcd14/EXyD_SSI-PRKkcOt2qDjb5YBVhGo1O-8kZoXEb0OSu_ogA?e=ZQuS0D)
 
 ## Features
